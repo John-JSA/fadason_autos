@@ -1,0 +1,35 @@
+FADASON AUTOS LLC — WEBSITE NEXT STEPS
+
+Website: https://fadason-autos.sitso-impact.chatgpt.site
+Staff manager: https://fadason-autos.sitso-impact.chatgpt.site/manage
+
+1. TEST A CUSTOMER INQUIRY
+Open the website and choose a service. Enter clearly labeled test details, attach a vehicle photo, and submit. Keep the confirmation reference.
+
+2. CHECK THE STAFF MANAGER
+Sign in with your authorized account and open the Staff page. Confirm the test inquiry and its attachments appear. Customer attachments should stay private.
+
+3. TEST THE GALLERY
+Upload a vehicle or parts photo from the Staff page. Check that it appears in the gallery. Test a short video and the delete option using test media.
+Upload limits: up to 6 files; images up to 10 MB each; videos up to 30 MB each; maximum 59 MB per submission.
+
+4. TEST THE CONTACT BUTTONS
+Phone / WhatsApp: +1 (267) 968-0779
+Phone / WhatsApp: +1 (610) 931-2521
+Email: Fadasonautollc@gmail.com
+Check that call links open the dialer and WhatsApp links reach the intended accounts. Email and WhatsApp inquiry buttons prepare a message; the customer must review and send it in the relevant app.
+
+5. COMPLETE THE BUSINESS INFORMATION
+Provide the business address, opening hours, and official Facebook, Instagram, TikTok, YouTube, or LinkedIn profile links. Unprovided social links are not active.
+
+6. REVIEW THE SERVICES WITH THE CLIENT
+Confirm which advertised services staff can actually provide. Update or remove anything the client does not offer. Confirm scope, pricing, and availability before accepting customer work.
+
+7. ARRANGE CLIENT STAFF ACCESS
+Provide the email addresses of the client staff who need to manage the gallery and review inquiries. Business contact email alone does not automatically grant staff access.
+
+8. MAKE THE WEBSITE PUBLIC WHEN READY
+The website remains private. After testing and completing the client information, request public customer access while keeping staff management and customer attachments protected.
+
+YOUR SSD BACKUP
+Save this checklist on your SSD. The working website and upload system operate online. This checklist is not a copy of the website source code or uploaded media.
